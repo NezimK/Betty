@@ -1,1 +1,1 @@
-# Betty
+First project C - Hello, World
